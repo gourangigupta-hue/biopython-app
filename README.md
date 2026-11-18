@@ -1,2 +1,2 @@
-# biopython-app
-My first BioPython web application
+# Protein Structure Predictor
+Run: python app.py
